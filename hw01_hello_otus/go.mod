@@ -1,4 +1,4 @@
-module github.com/hw01_hello_otus/hw01_hello_otus
+module github.com/BruderOrun/otus_go/otus_go/hw01_hello_otus
 
 go 1.16
 
